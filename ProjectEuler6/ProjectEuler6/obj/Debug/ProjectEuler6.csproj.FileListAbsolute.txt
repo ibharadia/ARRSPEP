@@ -1,6 +1,0 @@
-c:\users\imranb\documents\visual studio 2015\Projects\ProjectEuler6\ProjectEuler6\bin\Debug\ProjectEuler6.exe.config
-c:\users\imranb\documents\visual studio 2015\Projects\ProjectEuler6\ProjectEuler6\bin\Debug\ProjectEuler6.exe
-c:\users\imranb\documents\visual studio 2015\Projects\ProjectEuler6\ProjectEuler6\bin\Debug\ProjectEuler6.pdb
-c:\users\imranb\documents\visual studio 2015\Projects\ProjectEuler6\ProjectEuler6\obj\Debug\ProjectEuler6.csprojResolveAssemblyReference.cache
-c:\users\imranb\documents\visual studio 2015\Projects\ProjectEuler6\ProjectEuler6\obj\Debug\ProjectEuler6.exe
-c:\users\imranb\documents\visual studio 2015\Projects\ProjectEuler6\ProjectEuler6\obj\Debug\ProjectEuler6.pdb
